@@ -41,7 +41,6 @@ document.getElementById('zero').addEventListener('click', function ()
 {
     cals.innerText += 0;
 });
-/////////////////////////////////////////////////////////////////////
 document.getElementById('point').addEventListener('click', function ()
 {
     cals.innerText += ".";
